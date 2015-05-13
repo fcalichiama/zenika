@@ -3,5 +3,11 @@ permettre de retracer les différentes idées.
 1. Première idée
 Îù Créer à la racine un fichier README.txt contenant une description du projet
 
+
 Les taches techniques à effectuer sont dans le
 fichier TODO.txt
+
+Création de la page d'index de l'application
+
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/"
+
